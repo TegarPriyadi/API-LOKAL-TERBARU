@@ -35,7 +35,6 @@ Ingin menambahkan API Anda ke daftar ini? Ikuti langkah-langkah berikut untuk me
    ```bash
    git clone https://github.com/TegarPriyadi/API-LOKAL-TERBARU.git
    ```
-   Gantilah `username` dengan nama pengguna GitHub Anda.
 
 3. **Edit README.md**  
    Buka file `README.md` dan tambahkan informasi API Anda dalam format tabel berikut:
