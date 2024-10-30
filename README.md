@@ -56,9 +56,6 @@ Ingin menambahkan API Anda ke daftar ini? Ikuti langkah-langkah berikut untuk me
 5. **Buat Pull Request**  
    Kembali ke repositori asal (https://github.com/nama-repo/API-LOKAL-TERBARU) dan buka tab **Pull Requests**. Klik tombol **New Pull Request** dan pilih cabang yang ingin Anda ajukan perubahan. Tambahkan deskripsi singkat, lalu klik **Create Pull Request**.
 
-> **Contoh Visual Langkah-Langkah:**
-> ![Contoh Fork dan Pull Request](https://via.placeholder.com/800x400.png)
-
 ---
 
 > Kami sangat mengapresiasi kontribusi Anda! Pull request Anda akan diperiksa oleh tim, dan kami akan segera menghubungi Anda jika ada pertanyaan atau revisi yang diperlukan.
