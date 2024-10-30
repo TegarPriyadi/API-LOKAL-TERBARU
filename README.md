@@ -7,8 +7,8 @@ Kumpulan API terbaru yang siap digunakan untuk berbagai kebutuhan pengembangan a
 
 | Nama API  | Pemilik | Status  | API Key | Login Diperlukan | URL Akses     |
 |-----------|---------|---------|---------|-------------------|---------------|
-| **ZORNER**| Tidak diketahui | 🟢 Aktif | ✔️   | ✔️   | [Open](https://zorner.men/) |
-| **Nekohime** | Tidak diketahui | 🟢 Aktif | ✔️   | ✔️   | [Open](https://nkhm.xyz/) |
+| **ZORNER**| Tidak diketahui | 🟢 Aktif | ✔️   | ✔️   | [Buka API](https://zorner.men/) |
+| **Nekohime** | Tidak diketahui | 🟢 Aktif | ✔️   | ✔️   | [Buka API](https://nkhm.xyz/) |
 
 > **Catatan:** Pastikan untuk membaca dokumentasi API terkait agar memahami persyaratan dan fitur yang disediakan.
 
