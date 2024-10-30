@@ -1,7 +1,7 @@
 
 # 🌐 API Lokal Terbaru
 
-Kumpulan API terbaru yang siap digunakan untuk berbagai kebutuhan pengembangan aplikasi. Setiap API dilengkapi dengan informasi status, kebutuhan API key, akses login, dan link untuk akses langsung.
+Kumpulan API terbaru yang siap digunakan untuk berbagai kebutuhan pengembangan aplikasi sampai penggunaan pada Bot whatsapp, discord, dan telegram. Setiap API dilengkapi dengan informasi status, kebutuhan API key, akses login, dan link untuk akses langsung.
 
 ## 📜 Daftar Rest API
 
