@@ -57,7 +57,7 @@ Ingin menambahkan API Anda ke daftar ini? Ikuti langkah-langkah berikut untuk me
 
 ---
 
-> Kami sangat mengapresiasi kontribusi Anda! Pull request Anda akan diperiksa oleh tim, dan kami akan segera menghubungi Anda jika ada pertanyaan atau revisi yang diperlukan.
+> Kami sangat mengapresiasi kontribusi Anda! Pull request Anda akan diperiksa oleh tim, dan kami akan segera menghubungi Anda jika ada pertanyaan atau revisi yang diperlukan. Pasti akan di lakukan pengecekan secara berkala, Rest API yang tidak aktif akan di hapus
 
 **Lisensi:**  
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
