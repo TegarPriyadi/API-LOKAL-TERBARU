@@ -9,7 +9,7 @@ Kumpulan API terbaru yang siap digunakan untuk berbagai kebutuhan pengembangan a
 |-----------|---------|---------|---------|-------------------|---------------|
 | **ZORNER**| Tidak diketahui | 🟢 Aktif | ✔️   | ✔️   | [Buka API](https://zorner.men/) |
 | **Nekohime** | Tidak diketahui | 🟢 Aktif | ✔️   | ✔️   | [Buka API](https://nkhm.xyz/) |
-| **chiwa** | Tidak diketahui | 🟢 Aktif | ❌   | ❌   | [Buka API](https://api.chiwa.id/) |
+| **Chiwa** | Tidak diketahui | 🟢 Aktif | ❌   | ❌   | [Buka API](https://api.chiwa.id/) |
 
 > **Catatan:** Pastikan untuk membaca dokumentasi API terkait agar memahami persyaratan dan fitur yang disediakan.
 
